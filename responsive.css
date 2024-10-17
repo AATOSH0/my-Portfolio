@@ -1,12 +1,12 @@
 /* Mobile phone Responsive */
 
-@media (min-width: 50px) and (max-width: 749px) {
+@media (max-width: 600px) {
   /* header section */
 
   nav {
     width: 100%;
     margin-top: 0px;
-    height: 5vh;
+    height: 7vh;
   }
 
   nav div {
@@ -19,7 +19,7 @@
   }
 
   nav h1 {
-    font-size: 18px;
+    font-size: 24px;
   }
 
   nav:hover {
